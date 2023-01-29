@@ -13,6 +13,20 @@ involved in its future development.
 
 # Some projects to have a look
 
+### Doctors Portal (MERN Project)
+
+ The home page describes details about the website. The appointment section has a
+select date option for setting appointment and slots given for specific treatment.
+After selecting of specific date and slot one can book an appointment. Login users
+can see the dashboard option with a table showing their appointments.
+
+ #### Technologies: MERN, Firebase, Tailwind, Daisy UI, VS Code, Vercel
+
+- [Live Site](https://tourmaline-eclair-81c6c2.netlify.app/)
+- [Client Repo](https://github.com/Shahinul-Islam/Doctors-portal-revesion-v-01)
+- [Server Repo](https://github.com/Shahinul-Islam/doctort-portal-server-v01)
+
+
  ### Xen Matrix (Product Resale MERN Project)
  - Admin can remove or verify any seller & also can see all sellers and buyers
  - Users can login as buyer or seller
